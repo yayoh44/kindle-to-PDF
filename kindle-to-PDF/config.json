@@ -1,0 +1,11 @@
+{
+    "wait_time": 10,
+    "page_count": 280,
+    "region": [142, 0, 1634, 1079], 
+    "page_delay": 0.5,
+    "output_folder": "screenshots",
+    "page_method": "auto",
+    "max_pages": 1000,
+    "input_folder": "screenshots",
+    "output_pdf": "C:\\Projects\\kindle-to-PDF\\pdf\\kindle_book.pdf"
+} 
